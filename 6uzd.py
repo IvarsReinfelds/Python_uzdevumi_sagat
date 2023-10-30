@@ -4,7 +4,11 @@
 
 
 
-
+class APRAKSTS:
+    def __init__(self, nosaukums, gads, autors):
+        self.nosaukums=nosaukums
+        self.gads=gads
+        self.autors=autors
 
 
 
